@@ -1,6 +1,7 @@
 # Aura Perfume Recommendation System   – Personalized Fragrance Recommendation System  
 
 A sophisticated perfume recommendation system designed to help users discover their perfect scent based on preferences, lifestyle, and body chemistry.  
+![Project Demo](images/imgperfume.jpg)
 
 ## Features  
 - Personalized fragrance recommendations  
